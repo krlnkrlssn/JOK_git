@@ -903,7 +903,7 @@
                             <Property type="org.inviwo.FloatVec3Property" identifier="lookFrom">
                                 <minvalue x="-98.989792" y="-100" z="-99.999603" />
                                 <maxvalue x="98.989822" y="100" z="99.999649" />
-                                <value x="12.283409" y="2.1524658" z="7.4290986" />
+                                <value x="14.336702" y="1.2576976" z="-12.249222" />
                             </Property>
                             <Property type="org.inviwo.FloatVec3Property" identifier="lookTo">
                                 <minvalue x="-98.989792" y="-100" z="-99.999603" />
@@ -911,7 +911,7 @@
                                 <value x="-4.7141824" y="-3.2743769" z="-4.0644717" />
                             </Property>
                             <Property type="org.inviwo.FloatVec3Property" identifier="lookUp">
-                                <value x="-0.33188859" y="0.39466336" z="0.85679102" />
+                                <value x="-0.12811512" y="0.73323828" z="-0.66779381" />
                             </Property>
                             <Property type="org.inviwo.FloatProperty" identifier="aspectRatio">
                                 <value content="1.3713528" />
@@ -1089,7 +1089,7 @@
                             <Property type="org.inviwo.FloatVec3Property" identifier="lookFrom">
                                 <minvalue x="-98.989792" y="-100" z="-99.999603" />
                                 <maxvalue x="98.989822" y="100" z="99.999649" />
-                                <value x="12.283409" y="2.1524658" z="7.4290986" />
+                                <value x="14.336702" y="1.2576976" z="-12.249222" />
                             </Property>
                             <Property type="org.inviwo.FloatVec3Property" identifier="lookTo">
                                 <minvalue x="-98.989792" y="-100" z="-99.999603" />
@@ -1097,7 +1097,7 @@
                                 <value x="-4.7141824" y="-3.2743769" z="-4.0644717" />
                             </Property>
                             <Property type="org.inviwo.FloatVec3Property" identifier="lookUp">
-                                <value x="-0.33188859" y="0.39466336" z="0.85679102" />
+                                <value x="-0.12811512" y="0.73323828" z="-0.66779381" />
                             </Property>
                             <Property type="org.inviwo.FloatProperty" identifier="aspectRatio">
                                 <value content="1.3713528" />
@@ -1272,7 +1272,7 @@
                             <Property type="org.inviwo.FloatVec3Property" identifier="lookFrom">
                                 <minvalue x="-98.989792" y="-100" z="-99.999603" />
                                 <maxvalue x="98.989822" y="100" z="99.999649" />
-                                <value x="12.283409" y="2.1524658" z="7.4290986" />
+                                <value x="14.336702" y="1.2576976" z="-12.249222" />
                             </Property>
                             <Property type="org.inviwo.FloatVec3Property" identifier="lookTo">
                                 <minvalue x="-98.989792" y="-100" z="-99.999603" />
@@ -1280,7 +1280,7 @@
                                 <value x="-4.7141824" y="-3.2743769" z="-4.0644717" />
                             </Property>
                             <Property type="org.inviwo.FloatVec3Property" identifier="lookUp">
-                                <value x="-0.33188859" y="0.39466336" z="0.85679102" />
+                                <value x="-0.12811512" y="0.73323828" z="-0.66779381" />
                             </Property>
                             <Property type="org.inviwo.FloatProperty" identifier="aspectRatio">
                                 <value content="1.3713528" />
@@ -1584,7 +1584,7 @@
                         <collapsed content="0" />
                     </Property>
                     <Property type="org.inviwo.IntVec2Property" identifier="position">
-                        <value x="545" y="283" />
+                        <value x="659" y="482" />
                     </Property>
                     <Property type="org.inviwo.OptionPropertyEnumInt" identifier="visibleLayer" />
                     <Property type="org.inviwo.IntProperty" identifier="colorLayer_">
@@ -1627,7 +1627,7 @@
                         <selection content="0" />
                     </MetaDataItem>
                     <MetaDataItem type="org.inviwo.ProcessorWidgetMetaData" key="org.inviwo.ProcessorWidgetMetaData">
-                        <position x="545" y="283" />
+                        <position x="659" y="482" />
                         <dimensions x="517" y="377" />
                         <visibility content="1" />
                     </MetaDataItem>
@@ -1673,7 +1673,7 @@
                     <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
                         <position x="-1225" y="-875" />
                         <visibility content="1" />
-                        <selection content="0" />
+                        <selection content="1" />
                     </MetaDataItem>
                 </MetaDataMap>
             </Processor>
@@ -2024,7 +2024,7 @@
                     <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
                         <position x="-1225" y="-400" />
                         <visibility content="1" />
-                        <selection content="1" />
+                        <selection content="0" />
                     </MetaDataItem>
                 </MetaDataMap>
             </Processor>
